@@ -1,0 +1,23 @@
+FROM node:18-alpine
+
+WORKDIR /app
+
+# Install dependencies first for better caching
+COPY package*.json ./
+RUN npm install
+
+# Copy TypeScript config
+COPY tsconfig.json ./
+
+# Copy source code
+COPY src/ ./src/
+
+# Create upload and processed directories
+RUN mkdir -p uploads processed
+
+# Build TypeScript code
+RUN npm run build
+
+EXPOSE 3000
+
+CMD ["npm", "start"]
