@@ -1,0 +1,48 @@
+{
+  "content": "\nProject Management Software In-House Needs - youB, Inc \n \nUnique to our project: \n \n❖ Each youB member company gets its own PM interface within their individual youB \n\nprofile page (or company profile page). \n❖ Teams within a company will need to track their own projects (separate from other youB \n\nESR project team). \n❖ The company ESR Manager will need permission to see all projects. \n❖ Templates for projects can be preset by youB (Healthy Me, Healthy Us, Healthy Planet), \n\nwith sub-areas aligned with the 8 assessment areas. \n❖ Initial task content is downloaded from each company’s SurveyMonkey report into each \n\nof the 8 areas including company wide average scores (so programmers need access to \nSurvey Monkey content). \n\n❖ Task completions could simulate newer scores so teams can see how their tasks could \nincrease their ESR scores. \n\n \nStandard PM features: \n\n \n❖ Scheduling and task management tools (different views like Gantt charts, timelines, \n\nboards, calendars, task naming and descriptions, assign tasks to team members, track \ntask progress, customizable fields, color coding). \n\n❖ Collaboration and communication tools (like project dashboard, discussion boards, \nfile-sharing systems and messaging features)--integration with Rounds functionality. \n\n❖ Real-time reporting (like notifications about project progress, missed deadlines or any \nchanges to ongoing projects). \n\n❖ Comprehensive stack of project and CRM management tools. \n❖ Robust integrations and variety of additional ways to expand after installing this \n\nintegration with Survey Monkey.  \n❖ Having customizable templates across various categories, including marketing, sales, \n\nHR, design, and project management in order to build out our task management more \nefficiently. \n\n❖ Robust integrations to continuously improve processes. Having the capabilities for \nfurther integration can assist with building automated workflows, eliminating \ntime-consuming tasks, and keeping the entire team super-connected, among others. \n\n- Some of the platforms that can integrate with other PM softwares include: Adobe \nCreative Cloud, Zoom, Google Calendar, Dropbox, Slack, Excel, Google Drive, \ngmail, mailchimp, and Zapier. Depending on the software, you can also sync to \nother project management software like Trello, Asana, Jira, and Microsoft Teams. \n\n❖ User friendly interface for easy access across all teams.  \n❖ Ability to integrate with data storage softwares in order perform redactions and ensure \n\nend to end encryption of valuable information.  \n \n \n\n\n",
+  "metadata": {
+    "pdf:unmappedUnicodeCharsPerPage": "0",
+    "pdf:PDFVersion": "1.4",
+    "pdf:docinfo:title": "Project Management Software In-House Needs - youB, Inc",
+    "pdf:hasXFA": "false",
+    "access_permission:modify_annotations": "true",
+    "access_permission:can_print_degraded": "true",
+    "X-TIKA:Parsed-By-Full-Set": [
+      "org.apache.tika.parser.DefaultParser",
+      "org.apache.tika.parser.pdf.PDFParser"
+    ],
+    "pdf:num3DAnnotations": "0",
+    "language": "en",
+    "dc:format": "application/pdf; version=1.4",
+    "pdf:overallPercentageUnmappedUnicodeChars": "0.0",
+    "access_permission:fill_in_form": "true",
+    "pdf:hasCollection": "false",
+    "pdf:encrypted": "false",
+    "dc:title": "Project Management Software In-House Needs - youB, Inc",
+    "pdf:containsNonEmbeddedFont": "false",
+    "Content-Length": "84988",
+    "pdf:hasMarkedContent": "true",
+    "Content-Type-Override": "application/pdf",
+    "Content-Type": "application/pdf",
+    "dc:language": "en",
+    "pdf:producer": "Skia/PDF m134 Google Docs Renderer",
+    "pdf:totalUnmappedUnicodeChars": "0",
+    "access_permission:extract_for_accessibility": "true",
+    "access_permission:assemble_document": "true",
+    "xmpTPg:NPages": "1",
+    "pdf:hasXMP": "false",
+    "pdf:charsPerPage": "2483",
+    "access_permission:extract_content": "true",
+    "access_permission:can_print": "true",
+    "X-TIKA:Parsed-By": [
+      "org.apache.tika.parser.DefaultParser",
+      "org.apache.tika.parser.pdf.PDFParser"
+    ],
+    "access_permission:can_modify": "true",
+    "pdf:docinfo:producer": "Skia/PDF m134 Google Docs Renderer",
+    "pdf:containsDamagedFont": "false"
+  },
+  "originalFilename": "testPDF.pdf",
+  "mimeType": "application/pdf",
+  "processingDate": "2025-02-14T09:06:25.831Z"
+}
